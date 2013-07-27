@@ -1,0 +1,15 @@
+{
+  "name": "Canvas Annotator",
+  "version": "0.1",
+  "author": "Spencer Wallace <spencerw@email.arizona.edu>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spencerw/canvasAnnotator.git"
+  },
+  "dependencies": { 
+  },
+  "devDependencies": {
+    "coffee-script" : "~1.6.x",
+    "http-server": "~0.5.x"
+  }
+}
